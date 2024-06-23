@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\daniel\\source\\repos\\contra\\contra\\bullet.ixx",
+        "ProvidedModule": "Bullet",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

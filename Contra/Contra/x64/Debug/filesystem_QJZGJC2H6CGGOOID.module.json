@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\filesystem_QJZGJC2H6CGGOOID.obj",
+            "outputs": [
+                "C:\\Users\\Daniel\\source\\repos\\7323a898-gr51-repo\\Projekt\\Contra\\Contra\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\filesystem_QJZGJC2H6CGGOOID.module.json",
+                "x64\\Debug\\filesystem_QJZGJC2H6CGGOOID.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\filesystem",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\filesystem",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

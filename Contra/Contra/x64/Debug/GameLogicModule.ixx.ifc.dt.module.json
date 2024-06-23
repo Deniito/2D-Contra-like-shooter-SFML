@@ -1,0 +1,23 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\daniel\\source\\repos\\7323a898-gr51-repo\\projekt\\contra\\contra\\gamelogicmodule.ixx",
+        "ProvidedModule": "GameLogicModule",
+        "ImportedModules": [
+            "ObjectModule",
+            "PlayerModule",
+            "EnemyModule",
+            "MenuModule",
+            "MapModule"
+        ],
+        "ImportedHeaderUnits": [
+            "C:\\Users\\Daniel\\source\\repos\\7323a898-gr51-repo\\Projekt\\Contra\\Dependencies\\SFML\\include\\SFML\\Graphics.hpp",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\filesystem",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\fstream",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\iostream",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\memory",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\ranges"
+        ]
+    }
+}

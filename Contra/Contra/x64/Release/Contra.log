@@ -1,0 +1,925 @@
+﻿  BulletModule.ixx
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(1,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(1,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(1,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(2,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(2,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(2,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(3,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(3,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(3,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(3,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(4,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(4,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(4,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(4,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(6,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(6,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(6,8): error C2146: syntax error: missing ';' before identifier 'ObjectModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(8,1): error C3378: a declaration can be exported only from a module interface unit
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(8,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(8,15): error C2146: syntax error: missing ';' before identifier 'BulletModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(10,1): error C3378: a declaration can be exported only from a module interface unit
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(10,30): error C2504: 'Object': base class undefined
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(15,8): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(15,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(15,21): error C3646: 'direction': unknown override specifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(18,8): error C2039: 'vector': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(18,8): error C2061: syntax error: identifier 'vector'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(20,15): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(20,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(20,27): error C2143: syntax error: missing ',' before '&'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(17,7): error C3668: 'Bullet::update': method with override specifier 'override' did not override any base class methods
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(25,7): error C2039: 'vector': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(25,7): error C2061: syntax error: identifier 'vector'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(27,2): error C2065: 'position': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(27,13): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(28,6): error C2065: 'position': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(28,27): error C2065: 'position': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(31,26): error C2065: 'objectVector': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(31,3): error C3861: 'deleteObjectFromVector': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(35,3): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(35,22): error C2065: 'position': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(35,33): error C2065: 'direction': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(38,25): error C2065: 'objectVector': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(40,15): error C2065: 'objectVector': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(40,40): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(40,76): error C2065: 'objectVector': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(42,27): error C2065: 'objectVector': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(42,4): error C3861: 'deleteObjectFromVector': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(43,4): error C2065: 'objectVector': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(49,22): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(49,34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(49,34): error C2143: syntax error: missing ',' before '&'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(54,12): error C2065: 'direction': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(55,1): error C2789: 'Bullet::Vector2f': an object of const-qualified type must be initialized
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(15,12):
+  see declaration of 'Bullet::Vector2f'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(54,2): error C2614: 'Bullet': illegal member initialization: 'direction' is not a base or member
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(58,8): error C2039: 'position': is not a member of 'Bullet'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(10,14):
+  see declaration of 'Bullet'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(58,19): error C2065: 'startingPosition': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(58,38): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(58,42): error C2064: term does not evaluate to a function taking 2 arguments
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(59,8): error C2039: 'texture': is not a member of 'Bullet'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(10,14):
+  see declaration of 'Bullet'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(59,18): error C2065: 'bulletTexture': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(61,8): error C2039: 'spriteSize': is not a member of 'Bullet'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(10,14):
+  see declaration of 'Bullet'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(61,21): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(61,25): error C3861: 'Vector2i': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(62,8): error C2039: 'sprite': is not a member of 'Bullet'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(10,14):
+  see declaration of 'Bullet'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(62,27): error C2065: 'position': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(63,8): error C2039: 'sprite': is not a member of 'Bullet'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(10,14):
+  see declaration of 'Bullet'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(63,26): error C2065: 'texture': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(64,8): error C2039: 'sprite': is not a member of 'Bullet'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(10,14):
+  see declaration of 'Bullet'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(64,30): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(64,48): error C2065: 'spriteSize': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(64,62): error C2065: 'spriteSize': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\BulletModule.ixx(64,34): error C3861: 'IntRect': identifier not found
+  EnemyModule.ixx
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(1,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(1,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(1,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(2,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(2,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(2,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(3,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(3,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(3,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(3,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(4,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(4,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(4,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(4,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(6,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(6,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(6,8): error C2146: syntax error: missing ';' before identifier 'EntityModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(9,1): error C3378: a declaration can be exported only from a module interface unit
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(9,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(9,15): error C2146: syntax error: missing ';' before identifier 'EnemyModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(11,1): error C3378: a declaration can be exported only from a module interface unit
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(11,29): error C2504: 'Entity': base class undefined
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(14,7): error C2039: 'vector': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(14,7): error C2061: syntax error: identifier 'vector'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(13,6): error C3668: 'Enemy::update': method with override specifier 'override' did not override any base class methods
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(22,44): error C2039: 'vector': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(22,44): error C2061: syntax error: identifier 'vector'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(24,6): error C2065: 'health': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(26,26): error C2065: 'objectVector': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(26,3): error C3861: 'deleteObjectFromVector': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(32,6): error C2065: 'texture': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(34,3): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(34,21): error C2065: 'texture': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(35,3): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(35,25): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(35,43): error C2065: 'spriteSize': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(35,57): error C2065: 'spriteSize': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(35,29): error C3861: 'IntRect': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(36,8): error C2039: 'cout': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(36,8): error C2065: 'cout': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(36,41): error C2039: 'endl': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(36,41): error C2065: 'endl': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(39,8): error C2039: 'cout': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(39,8): error C2065: 'cout': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(39,49): error C2039: 'endl': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(39,49): error C2065: 'endl': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(40,6): error C2065: 'bulletTexture': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(42,8): error C2039: 'cout': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(42,8): error C2065: 'cout': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(42,44): error C2039: 'endl': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(42,44): error C2065: 'endl': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(45,8): error C2039: 'cout': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(45,8): error C2065: 'cout': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(45,52): error C2039: 'endl': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(45,52): error C2065: 'endl': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(50,2): error C2065: 'speed': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(51,2): error C2065: 'spriteSize': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(51,15): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(51,19): error C3861: 'Vector2i': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(52,2): error C2065: 'health': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(53,2): error C2065: 'position': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(53,13): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(53,17): error C3861: 'Vector2f': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(54,2): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EnemyModule.ixx(54,21): error C2065: 'position': undeclared identifier
+  EntityModule.ixx
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(1,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(1,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(1,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(2,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(2,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(2,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(3,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(3,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(3,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(3,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(4,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(4,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(4,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(4,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(6,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(6,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(6,8): error C2146: syntax error: missing ';' before identifier 'ObjectModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(7,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(7,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(7,8): error C2146: syntax error: missing ';' before identifier 'BulletModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(10,1): error C3378: a declaration can be exported only from a module interface unit
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(10,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(10,15): error C2146: syntax error: missing ';' before identifier 'EntityModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(12,1): error C3378: a declaration can be exported only from a module interface unit
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(12,30): error C2504: 'Object': base class undefined
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(16,2): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(16,15): error C3646: 'spriteSize': unknown override specifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(16,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(18,2): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(18,14): error C3646: 'bulletTexture': unknown override specifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(18,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(19,2): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(19,12): error C3646: 'shootClock': unknown override specifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(19,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(22,2): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(22,15): error C3646: 'texturePosition': unknown override specifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(22,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(25,19): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(25,31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(25,31): error C2143: syntax error: missing ',' before '&'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(28,18): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(28,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(28,30): error C2143: syntax error: missing ',' before '&'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(27,7): error C3668: 'Entity::collisionHandle': method with override specifier 'override' did not override any base class methods
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(36,26): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(36,38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(36,38): error C2143: syntax error: missing ',' before '&'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(39,22): error C2065: 'shootClock': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(43,3): error C2065: 'objectVector': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(43,31): error C2039: 'make_unique': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(43,31): error C2065: 'make_unique': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(43,43): error C2065: 'Bullet': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(43,51): error C2065: 'direction': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(43,62): error C2065: 'position': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(43,72): error C2065: 'texture': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(45,3): error C2065: 'shootClock': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(49,25): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(49,37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(49,37): error C2143: syntax error: missing ',' before '&'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(51,2): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(51,21): error C2065: 'position': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(51,32): error C2065: 'direction': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(51,52): error C2065: 'time': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(54,30): error C2065: 'direction': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(57,34): error C2065: 'direction': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(60,18): error C2039: 'cout': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(60,18): error C2065: 'cout': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(60,54): error C2039: 'endl': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(60,54): error C2065: 'endl': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(61,13): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(61,35): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(61,47): error C2065: 'texturePosition': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(61,66): error C2065: 'texturePosition': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(61,85): error C2065: 'spriteSize': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(61,99): error C2065: 'spriteSize': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(61,39): error C3861: 'IntRect': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(64,18): error C2039: 'cout': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(64,18): error C2065: 'cout': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(64,54): error C2039: 'endl': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(64,54): error C2065: 'endl': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(67,18): error C2039: 'cout': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(67,18): error C2065: 'cout': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(67,42): error C2039: 'endl': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(67,42): error C2065: 'endl': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(71,34): error C2065: 'direction': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(74,18): error C2039: 'cout': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(74,18): error C2065: 'cout': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(74,53): error C2039: 'endl': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(74,53): error C2065: 'endl': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(75,13): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(75,35): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(75,47): error C2065: 'texturePosition': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(75,69): error C2065: 'texturePosition': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(75,88): error C2065: 'spriteSize': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(75,102): error C2065: 'spriteSize': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(75,39): error C3861: 'IntRect': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(78,18): error C2039: 'cout': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(78,18): error C2065: 'cout': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(78,53): error C2039: 'endl': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(78,53): error C2065: 'endl': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(81,18): error C2039: 'cout': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(81,18): error C2065: 'cout': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(81,42): error C2039: 'endl': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(81,42): error C2065: 'endl': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(85,14): error C2039: 'cout': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(85,14): error C2065: 'cout': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(85,38): error C2039: 'endl': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(85,38): error C2065: 'endl': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(106,9): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(106,28): error C2065: 'position': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(106,39): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\EntityModule.ixx(106,43): error C3861: 'Vector2f': identifier not found
+  GameLogicModule.ixx
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(1,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(1,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(1,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(2,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(2,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(2,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(3,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(3,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(3,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(3,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(4,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(4,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(4,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(4,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(6,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(6,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(6,8): error C2146: syntax error: missing ';' before identifier 'ObjectModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(7,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(7,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(7,8): error C2146: syntax error: missing ';' before identifier 'PlayerModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(8,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(8,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(8,8): error C2146: syntax error: missing ';' before identifier 'EnemyModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(10,1): error C3378: a declaration can be exported only from a module interface unit
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(10,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(10,15): error C2146: syntax error: missing ';' before identifier 'GameLogicModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(12,1): error C3378: a declaration can be exported only from a module interface unit
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(14,2): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(14,19): error C3646: 'window': unknown override specifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(14,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(15,2): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(15,12): error C3646: 'clock': unknown override specifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(15,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(16,7): error C2039: 'vector': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(16,13): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(16,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(16,19): error C2039: 'unique_ptr': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(16,49): error C2238: unexpected token(s) preceding ';'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(17,2): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(17,12): error C3646: 'event': unknown override specifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(17,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(18,2): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(18,11): error C3646: 'deltaTimeCounter': unknown override specifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(18,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(24,7): error C2039: 'vector': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(24,13): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(24,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(24,19): error C2039: 'unique_ptr': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(24,55): error C2238: unexpected token(s) preceding ';'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(40,6): error C2039: 'vector': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(40,12): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(40,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(40,12): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(40,18): error C2039: 'unique_ptr': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(40,50): error C2039: 'getAllObjects': is not a member of 'GameLogic'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(12,14):
+  see declaration of 'GameLogic'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(41,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(41,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(47,9): error C2065: 'window': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(53,2): error C2065: 'allObjects': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(53,28): error C2039: 'make_unique': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(53,28): error C2065: 'make_unique': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(53,40): error C2065: 'Player': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(53,48): error C2059: syntax error: ')'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(54,2): error C2065: 'allObjects': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(54,28): error C2039: 'make_unique': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(54,28): error C2065: 'make_unique': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(54,40): error C2065: 'Enemy': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(54,47): error C2059: syntax error: ')'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(59,14): error C2065: 'deltaTimeCounter': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(60,2): error C2065: 'deltaTimeCounter': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(60,21): error C2065: 'clock': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(64,7): error C2039: 'cout': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(64,7): error C2065: 'cout': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(64,15): error C2065: 'allObjects': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(64,41): error C2039: 'endl': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(64,41): error C2065: 'endl': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(67,25): error C2065: 'allObjects': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(70,3): error C2065: 'allObjects': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(70,36): error C2065: 'allObjects': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(76,9): error C2065: 'window': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(76,26): error C2065: 'event': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(78,7): error C2065: 'event': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(78,21): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(78,32): error C2065: 'Closed': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(79,4): error C2065: 'window': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(85,2): error C2065: 'window': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(85,15): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(85,26): error C2065: 'Blue': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(87,19): error C2065: 'allObjects': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(87,2): error C2530: 'obj': references must be initialized
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(87,2): error C3531: 'obj': a symbol whose type contains 'auto' must have an initializer
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(87,17): error C2143: syntax error: missing ';' before ':'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(87,29): error C2143: syntax error: missing ';' before ')'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(89,13): error C2065: 'window': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(92,2): error C2065: 'window': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(97,2): error C2065: 'window': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(97,16): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(97,20): error C3861: 'VideoMode': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\GameLogicModule.ixx(98,2): error C2065: 'clock': undeclared identifier
+  Main.cpp
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(1,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(1,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(1,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(2,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(2,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(2,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(3,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(3,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(3,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(3,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(4,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(4,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(4,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(4,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(6,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(6,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(6,8): error C2146: syntax error: missing ';' before identifier 'ObjectModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(7,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(7,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(7,8): error C2146: syntax error: missing ';' before identifier 'EntityModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(8,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(8,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(8,8): error C2146: syntax error: missing ';' before identifier 'PlayerModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(9,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(9,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(9,8): error C2146: syntax error: missing ';' before identifier 'GameLogicModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(56,5): error C2065: 'GameLogic': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(56,15): error C2146: syntax error: missing ';' before identifier 'game'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(56,15): error C2065: 'game': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(57,5): error C2065: 'game': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(60,12): error C2065: 'game': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(62,9): error C2065: 'game': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\Main.cpp(64,9): error C2065: 'game': undeclared identifier
+  MapModule.ixx
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MapModule.ixx(1,1): error C3378: a declaration can be exported only from a module interface unit
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MapModule.ixx(1,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MapModule.ixx(1,15): error C2146: syntax error: missing ';' before identifier 'MapModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MapModule.ixx(3,1): error C3378: a declaration can be exported only from a module interface unit
+  MenuModule.ixx
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(1,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(1,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(1,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(2,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(2,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(2,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(3,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(3,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(3,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(3,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(4,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(4,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(4,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(4,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(6,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(6,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(6,8): error C2146: syntax error: missing ';' before identifier 'ObjectModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(7,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(7,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(7,8): error C2146: syntax error: missing ';' before identifier 'BulletModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(9,1): error C3378: a declaration can be exported only from a module interface unit
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(9,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(9,15): error C2146: syntax error: missing ';' before identifier 'MenuModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(11,1): error C3378: a declaration can be exported only from a module interface unit
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\MenuModule.ixx(11,25): error C2504: 'Object': base class undefined
+  ObjectModule.ixx
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(1,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(1,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(1,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(2,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(2,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(2,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(3,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(3,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(3,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(3,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(4,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(4,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(4,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(4,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(6,1): error C3378: a declaration can be exported only from a module interface unit
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(6,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(6,15): error C2146: syntax error: missing ';' before identifier 'ObjectModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(8,1): error C3378: a declaration can be exported only from a module interface unit
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(11,2): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(11,15): error C3646: 'position': unknown override specifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(11,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(13,2): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(13,13): error C3646: 'sprite': unknown override specifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(13,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(14,2): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(14,14): error C3646: 'texture': unknown override specifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(14,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(15,2): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(15,15): error C3646: 'spriteSize': unknown override specifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(15,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(18,8): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(18,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(18,19): error C3646: 'getSprite': unknown override specifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(18,29): error C2059: syntax error: ')'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(18,30): error C2238: unexpected token(s) preceding ';'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(20,8): error C2039: 'vector': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(20,8): error C2061: syntax error: identifier 'vector'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(22,12): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(22,16): error C2061: syntax error: identifier 'RenderWindow'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(26,35): error C2039: 'vector': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(26,35): error C2061: syntax error: identifier 'vector'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(28,7): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(28,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(28,26): error C2039: 'getSprite': is not a member of 'Object'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(8,14):
+  see declaration of 'Object'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(28,26): error C2146: syntax error: missing ';' before identifier 'getSprite'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(28,36): error C2059: syntax error: ')'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(29,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(29,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(32,45): error C2039: 'vector': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(32,45): error C2061: syntax error: identifier 'vector'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(34,7): error C2039: 'cout': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(34,7): error C2065: 'cout': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(34,66): error C2039: 'endl': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(34,66): error C2065: 'endl': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(36,19): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(36,35): error C2761: 'void Object::draw(void)': redeclaration of member is not allowed
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(36,23): error C2065: 'RenderWindow': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(36,37): error C2065: 'window': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(37,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(38,2): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(38,8): error C3484: syntax error: expected '->' before the return type
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(38,9): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(38,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(38,9): error C2146: syntax error: missing ';' before identifier 'draw'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(39,1): error C2059: syntax error: '}'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(39,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(42,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(42,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(46,42): error C2039: 'vector': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(46,48): error C2761: 'void Object::deleteObjectFromVector(void)': redeclaration of member is not allowed
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(46,42): error C2065: 'vector': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(46,54): error C2039: 'unique_ptr': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(46,54): error C2065: 'unique_ptr': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(46,75): error C2065: 'objectVector': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(46,65): error C2275: 'Object': expected an expression instead of a type
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(46,97): error C2065: 'objToRemove': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(46,89): error C2275: 'Object': expected an expression instead of a type
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(47,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(48,2): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(48,14): error C3484: syntax error: expected '->' before the return type
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(48,15): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(48,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(48,15): error C2146: syntax error: missing ';' before identifier 'erase'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(48,26): error C2039: 'remove_if': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(49,18): error C2039: 'unique_ptr': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(49,43): error C2143: syntax error: missing ';' before '{'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(49,43): error C2143: syntax error: missing ')' before ';'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(49,43): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(51,4): error C2059: syntax error: ')'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(51,5): error C2059: syntax error: ','
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(51,25): error C2059: syntax error: ')'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(52,1): error C2059: syntax error: '}'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\ObjectModule.ixx(52,1): error C2143: syntax error: missing ';' before '}'
+  PlayerModule.ixx
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(1,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(1,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(1,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(2,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(2,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(2,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(2,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(3,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(3,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(3,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(3,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(4,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(4,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(4,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(4,8): error C2059: syntax error: '<'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(6,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(6,1): error C2086: 'int import': redefinition
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(1,1):
+  see declaration of 'import'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(6,8): error C2146: syntax error: missing ';' before identifier 'EntityModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(9,1): error C3378: a declaration can be exported only from a module interface unit
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(9,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(9,15): error C2146: syntax error: missing ';' before identifier 'PlayerModule'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(12,1): error C3378: a declaration can be exported only from a module interface unit
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(12,30): error C2504: 'Entity': base class undefined
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(20,8): error C2039: 'vector': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(20,8): error C2061: syntax error: identifier 'vector'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(19,7): error C3668: 'Player::update': method with override specifier 'override' did not override any base class methods
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(25,7): error C2039: 'vector': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(25,7): error C2061: syntax error: identifier 'vector'
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(27,2): error C2065: 'position': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(27,13): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(35,5): error C2065: 'position': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(36,3): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(36,22): error C2065: 'position': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(36,33): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(36,37): error C3861: 'Vector2f': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(36,54): error C2065: 'speed': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(40,3): error C3861: 'jump': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(41,11): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(41,38): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(41,52): error C2065: 'Space': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(41,25): error C3861: 'isKeyPressed': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(42,3): error C3861: 'jump': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(45,6): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(45,33): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(45,47): error C2065: 'A': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(45,20): error C3861: 'isKeyPressed': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(46,3): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(46,22): error C2065: 'position': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(46,33): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(46,37): error C3861: 'Vector2f': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(46,55): error C2065: 'speed': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(47,11): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(47,38): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(47,52): error C2065: 'D': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(47,25): error C3861: 'isKeyPressed': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(50,19): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(52,3): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(52,25): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(52,50): error C2065: 'spriteSize': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(52,64): error C2065: 'spriteSize': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(52,29): error C3861: 'IntRect': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(54,3): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(54,22): error C2065: 'position': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(54,33): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(54,37): error C3861: 'Vector2f': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(54,54): error C2065: 'speed': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(58,6): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(58,33): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(58,47): error C2065: 'O': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(58,20): error C3861: 'isKeyPressed': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(59,9): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(59,13): error C3861: 'Vector2f': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(59,30): error C2065: 'objectVector': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(59,3): error C3861: 'shoot': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(60,11): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(60,38): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(60,52): error C2065: 'K': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(60,25): error C3861: 'isKeyPressed': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(61,9): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(61,13): error C3861: 'Vector2f': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(61,29): error C2065: 'objectVector': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(61,3): error C3861: 'shoot': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(62,11): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(62,38): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(62,52): error C2065: 'M': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(62,25): error C3861: 'isKeyPressed': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(63,9): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(63,13): error C3861: 'Vector2f': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(63,29): error C2065: 'objectVector': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(63,3): error C3861: 'shoot': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(69,6): error C2065: 'texture': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(71,3): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(71,21): error C2065: 'texture': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(72,3): error C2065: 'sprite': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(72,25): error C2653: 'sf': is not a class or namespace name
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(72,42): error C2065: 'spriteSize': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(72,56): error C2065: 'spriteSize': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(72,29): error C3861: 'IntRect': identifier not found
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(73,8): error C2039: 'cout': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(73,8): error C2065: 'cout': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(73,41): error C2039: 'endl': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(73,41): error C2065: 'endl': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(76,8): error C2039: 'cout': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(76,8): error C2065: 'cout': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(76,49): error C2039: 'endl': is not a member of 'std'
+  C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(76,49): error C2065: 'endl': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(77,6): error C2065: 'bulletTexture': undeclared identifier
+C:\Users\Daniel\source\repos\7323a898-gr51-repo\Projekt\Contra\Contra\PlayerModule.ixx(77,6): error C1003: error count exceeds 100; stopping compilation

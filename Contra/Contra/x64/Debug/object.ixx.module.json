@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\daniel\\source\\repos\\contra\\contra\\object.ixx",
+        "ProvidedModule": "ObjectModule",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\daniel\\source\\repos\\7323a898-gr51-repo\\projekt\\contra\\contra\\menumodule.ixx",
+        "ProvidedModule": "MenuModule",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "ObjectModule",
+                "BMI": "C:\\Users\\Daniel\\source\\repos\\7323a898-gr51-repo\\Projekt\\Contra\\Contra\\x64\\Debug\\ObjectModule.ixx.ifc.dt"
+            },
+            {
+                "Name": "BulletModule",
+                "BMI": "C:\\Users\\Daniel\\source\\repos\\7323a898-gr51-repo\\Projekt\\Contra\\Contra\\x64\\Debug\\BulletModule.ixx.ifc.dt"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\users\\daniel\\source\\repos\\7323a898-gr51-repo\\projekt\\contra\\dependencies\\sfml\\include\\sfml\\graphics.hpp",
+                "BMI": "C:\\Users\\Daniel\\source\\repos\\7323a898-gr51-repo\\Projekt\\Contra\\Contra\\x64\\Debug\\Graphics.hpp_EE846D45AC59F65.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\iostream",
+                "BMI": "C:\\Users\\Daniel\\source\\repos\\7323a898-gr51-repo\\Projekt\\Contra\\Contra\\x64\\Debug\\iostream_40F4BCCA54C99B1D.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\vector",
+                "BMI": "C:\\Users\\Daniel\\source\\repos\\7323a898-gr51-repo\\Projekt\\Contra\\Contra\\x64\\Debug\\vector_B77EB5B993178006.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\memory",
+                "BMI": "C:\\Users\\Daniel\\source\\repos\\7323a898-gr51-repo\\Projekt\\Contra\\Contra\\x64\\Debug\\memory_12DA1EB69F202192.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\cstdlib",
+                "BMI": "C:\\Users\\Daniel\\source\\repos\\7323a898-gr51-repo\\Projekt\\Contra\\Contra\\x64\\Debug\\cstdlib_B1A24A51FEBC7AE.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\filesystem",
+                "BMI": "C:\\Users\\Daniel\\source\\repos\\7323a898-gr51-repo\\Projekt\\Contra\\Contra\\x64\\Debug\\filesystem_4539452B0C4C28DE.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\fstream",
+                "BMI": "C:\\Users\\Daniel\\source\\repos\\7323a898-gr51-repo\\Projekt\\Contra\\Contra\\x64\\Debug\\fstream_B6D24C629121295D.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\ranges",
+                "BMI": "C:\\Users\\Daniel\\source\\repos\\7323a898-gr51-repo\\Projekt\\Contra\\Contra\\x64\\Debug\\ranges_AFAB8CA0D4DF114F.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.39.33519\\include\\algorithm",
+                "BMI": "C:\\Users\\Daniel\\source\\repos\\7323a898-gr51-repo\\Projekt\\Contra\\Contra\\x64\\Debug\\algorithm_D1CA26AE22DF6CDE.ifc.dt"
+            }
+        ]
+    }
+}

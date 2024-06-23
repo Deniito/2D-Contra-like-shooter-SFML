@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\daniel\\source\\repos\\7323a898-gr51-repo\\projekt\\contra\\contra\\enemymodule.ixx",
+        "ProvidedModule": "EnemyModule",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Graphics.hpp_MXGT58MWJQA5HVBP.obj",
+            "outputs": [
+                "C:\\Users\\Daniel\\source\\repos\\7323a898-gr51-repo\\Projekt\\Contra\\Contra\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\Graphics.hpp_MXGT58MWJQA5HVBP.module.json",
+                "x64\\Debug\\Graphics.hpp_MXGT58MWJQA5HVBP.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Daniel\\source\\repos\\7323a898-gr51-repo\\Projekt\\Contra\\Dependencies\\SFML\\include\\SFML\\Graphics.hpp",
+                    "source-path": "c:\\users\\daniel\\source\\repos\\7323a898-gr51-repo\\projekt\\contra\\dependencies\\sfml\\include\\sfml\\graphics.hpp",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
