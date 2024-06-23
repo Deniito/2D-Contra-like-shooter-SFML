@@ -1,1 +1,1 @@
-# 2d-game
+# 2D Contra like shooter written in SFML
