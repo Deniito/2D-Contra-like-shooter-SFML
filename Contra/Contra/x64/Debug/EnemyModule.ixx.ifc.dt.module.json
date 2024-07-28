@@ -1,17 +1,17 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\daniel\\source\\repos\\7323a898-gr51-repo\\projekt\\contra\\contra\\enemymodule.ixx",
+        "Source": "c:\\users\\danie\\source\\repos\\2d-contra-like-shooter-sfml\\contra\\contra\\enemymodule.ixx",
         "ProvidedModule": "EnemyModule",
         "ImportedModules": [
             "EntityModule"
         ],
         "ImportedHeaderUnits": [
-            "C:\\Users\\Daniel\\source\\repos\\7323a898-gr51-repo\\Projekt\\Contra\\Dependencies\\SFML\\include\\SFML\\Graphics.hpp",
-            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\iostream",
-            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
-            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\memory",
-            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\thread"
+            "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Dependencies\\SFML\\include\\SFML\\Graphics.hpp",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\iostream",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\memory",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\thread"
         ]
     }
 }

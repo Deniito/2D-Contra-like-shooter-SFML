@@ -1,9 +1,0 @@
-{
-    "Version": "1.1",
-    "Data": {
-        "Source": "c:\\users\\daniel\\source\\repos\\7323a898-gr51-repo\\projekt\\contra\\dependencies\\sfml\\include\\sfml\\graphics.hpp",
-        "ProvidedModule": "",
-        "ImportedModules": [],
-        "ImportedHeaderUnits": []
-    }
-}

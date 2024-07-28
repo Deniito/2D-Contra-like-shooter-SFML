@@ -1,7 +1,7 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\daniel\\source\\repos\\7323a898-gr51-repo\\projekt\\contra\\contra\\bulletmodule.ixx",
+        "Source": "c:\\users\\danie\\source\\repos\\2d-contra-like-shooter-sfml\\contra\\contra\\bulletmodule.ixx",
         "ProvidedModule": "BulletModule",
         "Includes": [],
         "ImportedModules": [],

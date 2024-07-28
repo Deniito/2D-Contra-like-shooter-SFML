@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -142,13 +142,21 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BulletModule.ixx" />
+    <ClCompile Include="EndMenuStateModule.ixx" />
     <ClCompile Include="EnemyModule.ixx" />
     <ClCompile Include="EntityModule.ixx" />
     <ClCompile Include="GameLogicModule.ixx" />
+    <ClCompile Include="LeaderboardMenuState.cpp" />
+    <ClCompile Include="LeaderboardMenuStateModule.ixx" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="MainMenuStateModule.ixx" />
     <ClCompile Include="MapModule.ixx" />
-    <ClCompile Include="MenuModule.ixx" />
+    <ClCompile Include="MenuContextModule.ixx" />
+    <ClCompile Include="MenuItemModule.ixx" />
+    <ClCompile Include="MenuStateModule.ixx" />
     <ClCompile Include="ObjectModule.ixx" />
+    <ClCompile Include="OptionsMenuState.cpp" />
+    <ClCompile Include="OptionsMenuStateModule.ixx" />
     <ClCompile Include="PlayerModule.ixx" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

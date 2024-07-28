@@ -8,11 +8,13 @@ import <fstream>;
 import <ranges>;
 import <algorithm>;
 
-import ObjectModule;
-import BulletModule;
+import MenuContextModule;
 
 export module MenuModule;
 
+
+/////////////////////////////////////////////////////////////////////////
+/*
 export class Menu
 {
 public:
@@ -376,3 +378,5 @@ void Menu::difficultyChange()
     else
         optionsMenuItems[0] = "Difficulty: Normal";
 }
+*/
+

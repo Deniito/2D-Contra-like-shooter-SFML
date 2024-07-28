@@ -9,8 +9,13 @@ import <ranges>;
 import ObjectModule;
 import PlayerModule;
 import EnemyModule;
-import MenuModule;
+//import MenuModule;
 import MapModule;
+
+import MenuContextModule;
+import MainMenuStateModule;
+import OptionsMenuStateModule;
+import EndMenuStateModule;
 
 export module GameLogicModule;
 
@@ -23,7 +28,8 @@ export class GameLogic
 
 	std::vector<std::unique_ptr<Object>> allObjects;
 
-	Menu menu;
+	//Menu menu;
+	MenuContext menu;
 
 	int points;
 	float deltaTime;
@@ -64,9 +70,10 @@ bool GameLogic::isRunning()
 
 void GameLogic::start()
 {
-	menu.runMenu();
+	menu.setState(std::make_shared<MainMenuState>(menu));
+	menu.run();
 	allObjects.push_back(std::make_unique<GameMap>());
-	allObjects.push_back(std::make_unique<Player>(menu.isDifficultyHard()));
+	allObjects.push_back(std::make_unique<Player>(menu.getIsDifficultyHard()));
 	playerAlive = true;
 
 }
@@ -96,7 +103,8 @@ void GameLogic::update()
 	}
 	else
 	{
-		menu.runEndMenu(points);
+		menu.setState(std::make_shared<EndMenuState>(menu));
+		menu.run();
 		saveScore(points);
 		reset();
 		start();
@@ -165,12 +173,14 @@ void GameLogic::reset()
 	points = 0;
 }
 
-GameLogic::GameLogic() : window(sf::VideoMode(1920, 1080), "Projekt PK4"),
-						menu(1920.0f, 1080.0f, &window), points(0)
+GameLogic::GameLogic::GameLogic() 
+    : window(sf::VideoMode(1920, 1080), "Projekt PK4"),
+      menu(window),  // Initialize menu here with the window pointer
+      points(0),
+      timeBetweenEnemies(0.0f),
+      minTimeBetweenEnemies(5000.0f),
+      playerAlive(0),
+      deltaTime(0) 
 {
-	timeBetweenEnemies = 0.0f;
-	minTimeBetweenEnemies = 5000.0f;
-	playerAlive = 0;
-	clock.restart();
-	deltaTime = 0; 
+    clock.restart();
 }

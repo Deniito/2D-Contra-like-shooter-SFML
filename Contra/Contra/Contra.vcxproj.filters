@@ -13,34 +13,67 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Pliki zasobów\Menu">
+      <UniqueIdentifier>{12fe6cbc-9015-4d7d-84b2-69b8de87c231}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki zasobów\Menu\Specific MenuState">
+      <UniqueIdentifier>{2c444ff3-0a8d-4b57-bd5c-f0609c5a0a5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki zasobów\Obj">
+      <UniqueIdentifier>{cc20f02f-5a4d-491a-8934-362fce395390}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
-    <ClCompile Include="BulletModule.ixx">
-      <Filter>Pliki zasobów</Filter>
-    </ClCompile>
-    <ClCompile Include="PlayerModule.ixx">
-      <Filter>Pliki zasobów</Filter>
-    </ClCompile>
-    <ClCompile Include="EntityModule.ixx">
-      <Filter>Pliki zasobów</Filter>
-    </ClCompile>
-    <ClCompile Include="MenuModule.ixx">
-      <Filter>Pliki zasobów</Filter>
-    </ClCompile>
     <ClCompile Include="GameLogicModule.ixx">
-      <Filter>Pliki zasobów</Filter>
-    </ClCompile>
-    <ClCompile Include="ObjectModule.ixx">
-      <Filter>Pliki zasobów</Filter>
-    </ClCompile>
-    <ClCompile Include="EnemyModule.ixx">
       <Filter>Pliki zasobów</Filter>
     </ClCompile>
     <ClCompile Include="MapModule.ixx">
       <Filter>Pliki zasobów</Filter>
+    </ClCompile>
+    <ClCompile Include="EndMenuStateModule.ixx">
+      <Filter>Pliki zasobów\Menu\Specific MenuState</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuStateModule.ixx">
+      <Filter>Pliki zasobów\Menu\Specific MenuState</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionsMenuStateModule.ixx">
+      <Filter>Pliki zasobów\Menu\Specific MenuState</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuStateModule.ixx">
+      <Filter>Pliki zasobów\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="LeaderboardMenuStateModule.ixx">
+      <Filter>Pliki zasobów\Menu\Specific MenuState</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuContextModule.ixx">
+      <Filter>Pliki zasobów\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectModule.ixx">
+      <Filter>Pliki zasobów\Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletModule.ixx">
+      <Filter>Pliki zasobów\Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyModule.ixx">
+      <Filter>Pliki zasobów\Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityModule.ixx">
+      <Filter>Pliki zasobów\Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuItemModule.ixx">
+      <Filter>Pliki zasobów\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerModule.ixx">
+      <Filter>Pliki zasobów\Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionsMenuState.cpp">
+      <Filter>Pliki zasobów\Menu\Specific MenuState</Filter>
+    </ClCompile>
+    <ClCompile Include="LeaderboardMenuState.cpp">
+      <Filter>Pliki zasobów\Menu\Specific MenuState</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
