@@ -6,7 +6,6 @@ import <thread>;
 
 
 import EntityModule;
-import MenuModule;
 import MapModule;
 
 export module PlayerModule;

@@ -5,7 +5,6 @@
         "ProvidedModule": "PlayerModule",
         "ImportedModules": [
             "EntityModule",
-            "MenuModule",
             "MapModule"
         ],
         "ImportedHeaderUnits": [

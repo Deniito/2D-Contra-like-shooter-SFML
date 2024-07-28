@@ -4,7 +4,81 @@
         "Source": "c:\\users\\danie\\source\\repos\\2d-contra-like-shooter-sfml\\contra\\contra\\gamelogicmodule.ixx",
         "ProvidedModule": "GameLogicModule",
         "Includes": [],
-        "ImportedModules": [],
-        "ImportedHeaderUnits": []
+        "ImportedModules": [
+            {
+                "Name": "ObjectModule",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\ObjectModule.ixx.ifc.dt"
+            },
+            {
+                "Name": "EnemyModule",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\EnemyModule.ixx.ifc.dt"
+            },
+            {
+                "Name": "MapModule",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\MapModule.ixx.ifc.dt"
+            },
+            {
+                "Name": "MenuContextModule",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\MenuContextModule.ixx.ifc.dt"
+            },
+            {
+                "Name": "MainMenuStateModule",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\MainMenuStateModule.ixx.ifc.dt"
+            },
+            {
+                "Name": "OptionsMenuStateModule",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\OptionsMenuStateModule.ixx.ifc.dt"
+            },
+            {
+                "Name": "EndMenuStateModule",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\EndMenuStateModule.ixx.ifc.dt"
+            },
+            {
+                "Name": "MenuStateModule",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\MenuStateModule.ixx.ifc.dt"
+            },
+            {
+                "Name": "MenuItemModule",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\MenuItemModule.ixx.ifc.dt"
+            },
+            {
+                "Name": "EntityModule",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\EntityModule.ixx.ifc.dt"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\users\\danie\\source\\repos\\2d-contra-like-shooter-sfml\\contra\\dependencies\\sfml\\include\\sfml\\graphics.hpp",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\Graphics.hpp_379B0AE665E5E110.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\filesystem",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\filesystem_583868A821ECA39E.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\fstream",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\fstream_F66B2CA67445A41D.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\iostream",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\iostream_2D86B2BA07B190DD.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\vector",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\vector_8813B2EFA34ABBC6.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\memory",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\memory_39F51BE7C7566552.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\ranges",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\ranges_8242B44F499ADC0F.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.40.33807\\include\\thread",
+                "BMI": "C:\\Users\\danie\\source\\repos\\2D-Contra-like-shooter-SFML\\Contra\\Contra\\x64\\Debug\\thread_92A2770D4EF3576D.ifc.dt"
+            }
+        ]
     }
 }
